@@ -1,4 +1,5 @@
-![snake animation](https://github.com/<FernandoOcion>/<FernandoOcion>/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/FernandoOcion/FernandoOcion/blob/output/github-contribution-grid-snake.svg)
+
 
 # Fernando Ocion
 ---
