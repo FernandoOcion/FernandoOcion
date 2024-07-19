@@ -1,3 +1,5 @@
+![snake animation](https://github.com/<FernandoOcion>/<FernandoOcion>/blob/output/github-contribution-grid-snake2.svg)
+
 # Fernando Ocion
 ---
 
