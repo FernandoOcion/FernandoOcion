@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FernandoOcion"><br>
+</div>
+
+<div align="center">
+    <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmk1aHFja2Y5NXdpajU4bDg2dWhhY3NqNTF5cmNjZHYzZXFoM283cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LGG3l7g4UlxbyOYDbj/giphy-downsized-large.gif">
+</div>
+
 ![snake gif](https://github.com/FernandoOcion/FernandoOcion/blob/output/github-contribution-grid-snake.svg)
 
 
