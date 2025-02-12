@@ -15,15 +15,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=AA42F7&width=435&lines=Ola+DEV!+Seja+bem-vindo+ao+meu+perfil+GitHub!;Prazer%2C+meu+nome+%C3%A9+Fernando+Ocion.)](https://git.io/typing-svg)
 
 
-Estudo programação desde 2022, comecei com vídeos na internet e comecei aos poucos me aprofundar nesse mundo de Desenvolvimento.
-
-Estou atualmente no 3º período de Análise e Desenvolvimento de Sistemas com término prevista para final de 2025.
-
+Estudo programação desde 2022, comecei com vídeos na internet e aos poucos me aprofundei nesse mundo de Desenvolvimento.
+Estou atualmente no 4º período de Análise e Desenvolvimento de Sistemas com término prevista para final de 2025.
 Sou aluno do DevClub desde 2023, onde aprendi sobre HTML5, CSS3, Javascript, NodeJs, Banco de dados, React, React Native, TypeScript e outros.
 
-Iniciei em 2024 o BootCamp Santander com foco em BackEnd Java
+Profissional de vendas em loja de varejo, experiente com 10 anos de atuação, buscando uma oportunidade de migração de carreira para a área de programação. Estou atualmente aprimorando minhas habilidades por meio de estudos da faculdade de Análise e Desenvolvimento de Sistemas, do curso DevClub que já concluí e de 4 Bootcamps com a DIO. Acredito que minha boa comunicação adquirida em anos de experiência de vendas, combinada com minha paixão por programação, me tornará um ativo valioso para a empresa que me contratar.
 
-Profissional de vendas em loja de varejo, experiente com 10 anos de atuação, buscando uma oportunidade de migração de carreira para a área de programação. Estou atualmente aprimorando minhas habilidades por meio de estudos da faculdade, do curso DevClub e do Bootcamp Santander com a DIO. Acredito que minha boa comunicação adquirida em anos de experiência de vendas, combinada com minha paixão por programação, me tornará um ativo valioso para a empresa que me contratar.
+Estou ansioso para aprender novas tecnologias e contribuir com minhas habilidades para o sucesso da equipe. Acredito que minha paixão por tecnologia e meu compromisso com a excelência me tornam um candidato ideal.
 
 #### Conecte-se comigo
 
